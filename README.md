@@ -6,4 +6,4 @@ This script adds new functionalities to dotdatabase.net page:
   2. functionallity to add to or remove from collection currentlly selected relic by pressing arrow right or left on keyboard 
 
 Current limitations:
-  This functionalities are not working when focus in on TITAN_IFRAME.
+  This functionalities are not working when focus is on TITAN_IFRAME.
