@@ -1,2 +1,9 @@
 # dotdatabase-arrows-handling
-Script for tempermonkey allows to change visible relic by pressing arrows up and down, also allows to add item to collection.
+Script ready for use in Tempermonkey. 
+
+This script adds new functionalities to dotdatabase.net page: 
+  1. functionallity to move to next or previous relic just by pressing arrow down or up on the keyboard
+  2. functionallity to add to or remove from collection currentlly selected relic by pressing arrow right or left on keyboard 
+
+Current limitations:
+  This functionalities are not working when focus in on TITAN_IFRAME.
