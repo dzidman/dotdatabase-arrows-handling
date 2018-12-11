@@ -99,7 +99,7 @@
     //add to collection
     function addToCollection(){
         var relicLink = getRelicLinks()[relicIndex]
-        relicLink.nextElementSibling.nextElementSibling.nextElementSibling.click()
+        relicLink.parentElement.lastChild.click()
     }
 
 })();
